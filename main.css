@@ -1,0 +1,121 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.top
+{
+	float: right;
+	clear:both;
+}
+
+.top a,.top button
+{
+	margin: 10px;
+	text-decoration: none;
+}
+
+.top button
+{
+	background: #4484f1;
+	padding: 8px;
+	font-size: 15px;
+	color:#fff;
+	border-radius: 10%;
+	font-weight: bold;
+}
+
+.a {
+	font-size:100px;
+}
+
+.google
+{
+	clear:right;
+	text-align: center;
+}
+
+
+.search, input
+{
+	width: 500px;
+	height: 35px;
+	margin: 4px;
+	padding: 8px;
+	border:1px solid grey;
+	border-radius: 25px;
+}
+
+button
+{
+	margin-top: 15px;
+	height: 40px;
+	width:auto;
+	color:#646464;
+	background: #f2f2f2;
+	border: none;
+	cursor: pointer;
+}
+
+.flourish
+{
+	margin-top: 20px;
+	
+}
+
+.flourish, a
+{
+	text-decoration:none;
+}
+
+.langs
+{
+	margin-top: 30px;
+}
+
+.footer
+{
+	margin-top: 80px;
+	padding: 8px;
+	background-color:#f0f5f5;
+	position: fixed;
+	width:100%;
+	color: #3f5a5a;
+	
+}
+
+.footer a
+{
+	color: #3f5a5a;
+}
+
+.country
+{
+	float: left;
+	margin-left: 7px;
+}
+
+.footer-base
+{
+	clear:left;
+	font-weight: bold;
+
+}
+
+.footer-left
+{
+	float: left;
+}
+
+.footer-right
+{
+	float:right;
+}
+
+.footer, a 
+{
+	padding: 5px;
+}
